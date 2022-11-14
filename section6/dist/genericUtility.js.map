@@ -1,0 +1,1 @@
+{"version":3,"file":"genericUtility.js","sourceRoot":"","sources":["../src/genericUtility.ts"],"names":[],"mappings":";AAKA,SAAS,iBAAiB,CACtB,IAAY,EACZ,GAAW,EACX,SAAe;IAEf,IAAI,WAAW,GAA0B,EAAE,CAAC;IAC5C,WAAW,CAAC,IAAI,GAAG,IAAI,CAAC;IACxB,WAAW,CAAC,GAAG,GAAG,GAAG,CAAC;IACtB,WAAW,CAAC,SAAS,GAAG,SAAS,CAAC;IAClC,OAAO,WAA2B,CAAC;AACvC,CAAC"}

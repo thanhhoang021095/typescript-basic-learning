@@ -1,5 +1,5 @@
 let userName: string = 'Hoang';
-userName = 'strung'
+userName = 'trung'
 
 console.log(userName);
 
